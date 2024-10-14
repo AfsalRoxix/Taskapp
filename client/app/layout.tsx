@@ -60,7 +60,6 @@ export default function RootLayout({
               </MainContentLayout>
             </div>
           </div>
-          {children}
         </UserProvider>
       </body>
     </html>
